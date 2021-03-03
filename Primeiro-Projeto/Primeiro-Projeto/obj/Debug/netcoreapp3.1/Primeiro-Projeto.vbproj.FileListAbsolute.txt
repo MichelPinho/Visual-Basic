@@ -1,0 +1,13 @@
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.exe
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.deps.json
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.runtimeconfig.json
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.runtimeconfig.dev.json
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.dll
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\bin\Debug\netcoreapp3.1\Primeiro-Projeto.pdb
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.vbprojAssemblyReference.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.AssemblyInfoInputs.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.AssemblyInfo.vb
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.dll
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.pdb
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Primeiro-Projeto\Primeiro-Projeto\obj\Debug\netcoreapp3.1\Primeiro-Projeto.genruntimeconfig.cache
