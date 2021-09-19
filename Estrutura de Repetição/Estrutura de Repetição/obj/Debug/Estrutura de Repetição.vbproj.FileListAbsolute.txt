@@ -1,0 +1,11 @@
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.exe.config
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.exe
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.pdb
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.xml
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.vbproj.AssemblyReference.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura_de_Repetição.Resources.resources
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.vbproj.GenerateResource.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.exe
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.xml
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.pdb

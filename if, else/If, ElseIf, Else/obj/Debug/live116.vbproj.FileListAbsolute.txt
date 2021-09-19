@@ -1,0 +1,11 @@
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\bin\Debug\live116.exe.config
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\bin\Debug\live116.exe
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\bin\Debug\live116.pdb
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\bin\Debug\live116.xml
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.vbproj.AssemblyReference.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.Resources.resources
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.vbproj.GenerateResource.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.vbproj.CoreCompileInputs.cache
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.exe
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.xml
+C:\Users\pec\Documents\MeusProjetos\Visual-Basic\live116\live116\obj\Debug\live116.pdb
